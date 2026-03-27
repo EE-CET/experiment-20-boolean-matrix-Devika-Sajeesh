@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class BooleanMatrix {
 
-    static void BooleanMatrix(int[][] mat, int m, int n) {
+    public static void BooleanMatrixProblem(int[][] mat, int m, int n) {
 
         for (int i = 0; i < m; i++) {
             boolean hasOne = false;
